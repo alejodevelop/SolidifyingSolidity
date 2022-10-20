@@ -1,0 +1,294 @@
+[2022/10/03 17:46:18.664] - Starting server with initial configuration: {"gasLimit":6721975,"gasPrice":20000000000,"hardfork":"muirGlacier","hostname":"127.0.0.1","port":7545,"network_id":5777,"default_balance_ether":500,"total_accounts":5,"unlocked_accounts":[],"locked":false,"vmErrorsOnRPCResponse":true,"verbose":false,"db_path":"C:\\Users\\alejo\\AppData\\Roaming\\Ganache\\workspaces\\blockchain\\chaindata","logDirectory":"C:\\Programacion\\solidity\\ganacheLogs"}
+[2022/10/03 17:46:18.781] - eth_subscribe
+[2022/10/03 17:46:18.784] - eth_getLogs
+[2022/10/03 17:46:18.785] - eth_subscribe
+[2022/10/03 17:46:18.801] - eth_subscribe
+[2022/10/03 17:46:18.803] - eth_getLogs
+[2022/10/03 17:46:18.810] - eth_subscribe
+[2022/10/03 17:46:19.815] - eth_blockNumber
+[2022/10/03 17:46:19.816] - eth_accounts
+[2022/10/03 17:46:19.817] - eth_gasPrice
+[2022/10/03 17:46:19.818] - eth_getBlockByNumber
+[2022/10/03 17:46:19.818] - eth_blockNumber
+[2022/10/03 17:46:19.819] - eth_subscribe
+[2022/10/03 17:46:19.819] - eth_accounts
+[2022/10/03 17:46:19.820] - eth_gasPrice
+[2022/10/03 17:46:19.821] - eth_getBlockByNumber
+[2022/10/03 17:46:19.822] - eth_subscribe
+[2022/10/03 17:46:19.834] - eth_accounts
+[2022/10/03 17:46:19.876] - eth_getBalance
+[2022/10/03 17:46:19.879] - eth_getTransactionCount
+[2022/10/03 17:46:19.884] - eth_getBalance
+[2022/10/03 17:46:19.887] - eth_getTransactionCount
+[2022/10/03 17:46:19.888] - eth_getBalance
+[2022/10/03 17:46:19.892] - eth_getTransactionCount
+[2022/10/03 17:46:19.897] - eth_getBalance
+[2022/10/03 17:46:19.898] - eth_getTransactionCount
+[2022/10/03 17:46:19.901] - eth_getBalance
+[2022/10/03 17:46:19.903] - eth_getTransactionCount
+[2022/10/03 17:46:19.943] - eth_getBalance
+[2022/10/03 17:46:19.944] - eth_getTransactionCount
+[2022/10/03 17:46:19.947] - eth_getBalance
+[2022/10/03 17:46:19.950] - eth_getTransactionCount
+[2022/10/03 17:46:19.955] - eth_getBalance
+[2022/10/03 17:46:19.955] - eth_getTransactionCount
+[2022/10/03 17:46:19.958] - eth_getBalance
+[2022/10/03 17:46:19.959] - eth_getTransactionCount
+[2022/10/03 17:46:19.962] - eth_getBalance
+[2022/10/03 17:46:19.968] - eth_getTransactionCount
+[2022/10/03 17:46:19.972] - eth_getBalance
+[2022/10/03 17:46:19.973] - eth_getTransactionCount
+[2022/10/03 17:46:19.975] - eth_getBalance
+[2022/10/03 17:46:19.977] - eth_getTransactionCount
+[2022/10/03 17:46:19.980] - eth_getBalance
+[2022/10/03 17:46:19.983] - eth_getTransactionCount
+[2022/10/03 17:46:19.986] - eth_getBalance
+[2022/10/03 17:46:19.987] - eth_getTransactionCount
+[2022/10/03 17:46:19.991] - eth_getBalance
+[2022/10/03 17:46:19.992] - eth_getTransactionCount
+[2022/10/03 17:46:20.023] - eth_getTransactionCount
+[2022/10/03 17:46:20.024] - eth_getBalance
+[2022/10/03 17:46:20.026] - eth_getTransactionCount
+[2022/10/03 17:46:20.027] - eth_getBalance
+[2022/10/03 17:46:20.030] - eth_getTransactionCount
+[2022/10/03 17:46:20.032] - eth_getBalance
+[2022/10/03 17:46:20.039] - eth_getTransactionCount
+[2022/10/03 17:47:45.082] - eth_blockNumber
+[2022/10/03 17:47:45.097] - net_version
+[2022/10/03 17:47:45.107] - eth_accounts
+[2022/10/03 17:47:45.137] - eth_getBlockByNumber
+[2022/10/03 17:47:45.161] - eth_accounts
+[2022/10/03 17:47:45.202] - net_version
+[2022/10/03 17:47:45.215] - eth_getBlockByNumber
+[2022/10/03 17:47:45.232] - eth_getBlockByNumber
+[2022/10/03 17:47:45.248] - net_version
+[2022/10/03 17:47:45.252] - eth_getBlockByNumber
+[2022/10/03 17:47:45.269] - eth_estimateGas
+[2022/10/03 17:47:45.649] - net_version
+[2022/10/03 17:47:45.650] - eth_blockNumber
+[2022/10/03 17:47:45.655] - eth_getBlockByNumber
+[2022/10/03 17:47:45.662] - eth_estimateGas
+[2022/10/03 17:47:45.844] - eth_getBlockByNumber
+[2022/10/03 17:47:45.845] - eth_gasPrice
+[2022/10/03 17:47:45.852] - eth_sendTransaction
+[2022/10/03 17:47:46.035] - 
+[2022/10/03 17:47:46.036] -   Transaction: 0x7224bf443fbeb4693c5071f0c0e73253152aafcee37982beef2a3c03a13f1832
+[2022/10/03 17:47:46.036] -   Contract created: 0xd2fe14cb6560544ca2944b044dccc1895698d466
+[2022/10/03 17:47:46.037] -   Gas usage: 246904
+[2022/10/03 17:47:46.037] -   Block Number: 26
+[2022/10/03 17:47:46.047] -   Block Time: Mon Oct 03 2022 17:47:45 GMT-0500 (Colombia Standard Time)
+[2022/10/03 17:47:46.047] - 
+[2022/10/03 17:47:46.050] - eth_getBlockByNumber
+[2022/10/03 17:47:46.051] - eth_getBalance
+[2022/10/03 17:47:46.052] - eth_getTransactionCount
+[2022/10/03 17:47:46.057] - eth_getTransactionReceipt
+[2022/10/03 17:47:46.058] - eth_getBalance
+[2022/10/03 17:47:46.059] - eth_getTransactionCount
+[2022/10/03 17:47:46.060] - eth_getBalance
+[2022/10/03 17:47:46.061] - eth_getTransactionCount
+[2022/10/03 17:47:46.064] - eth_getBalance
+[2022/10/03 17:47:46.065] - eth_getTransactionCount
+[2022/10/03 17:47:46.065] - eth_getBalance
+[2022/10/03 17:47:46.066] - eth_getTransactionCount
+[2022/10/03 17:47:46.088] - eth_getCode
+[2022/10/03 17:47:46.209] - eth_getTransactionByHash
+[2022/10/03 17:47:46.223] - eth_getBlockByNumber
+[2022/10/03 17:47:46.238] - eth_getBalance
+[2022/10/03 17:47:46.257] - eth_getBlockByNumber
+[2022/10/03 17:47:46.272] - eth_getBlockByNumber
+[2022/10/03 17:47:46.288] - eth_estimateGas
+[2022/10/03 17:47:46.538] - eth_getBlockByNumber
+[2022/10/03 17:47:46.539] - eth_gasPrice
+[2022/10/03 17:47:46.559] - eth_sendTransaction
+[2022/10/03 17:47:46.748] - 
+[2022/10/03 17:47:46.749] -   Transaction: 0x7cd64f25cbf8ac60a5325fa6f72d43137a4fa3498da980b914976d2d45814ef6
+[2022/10/03 17:47:46.749] -   Gas usage: 42513
+[2022/10/03 17:47:46.750] -   Block Number: 27
+[2022/10/03 17:47:46.750] -   Block Time: Mon Oct 03 2022 17:47:46 GMT-0500 (Colombia Standard Time)
+[2022/10/03 17:47:46.751] - 
+[2022/10/03 17:47:46.756] - eth_getBalance
+[2022/10/03 17:47:46.757] - eth_getTransactionCount
+[2022/10/03 17:47:46.758] - eth_getTransactionReceipt
+[2022/10/03 17:47:46.758] - eth_getBlockByNumber
+[2022/10/03 17:47:46.761] - eth_getBalance
+[2022/10/03 17:47:46.765] - eth_getTransactionCount
+[2022/10/03 17:47:46.766] - eth_getBalance
+[2022/10/03 17:47:46.769] - eth_getTransactionCount
+[2022/10/03 17:47:46.774] - eth_getBalance
+[2022/10/03 17:47:46.774] - eth_getTransactionCount
+[2022/10/03 17:47:46.778] - eth_getBalance
+[2022/10/03 17:47:46.782] - eth_getTransactionCount
+[2022/10/03 17:47:46.786] - eth_getBlockByNumber
+[2022/10/03 17:47:46.858] - eth_accounts
+[2022/10/03 17:47:46.894] - net_version
+[2022/10/03 17:47:46.901] - eth_getBlockByNumber
+[2022/10/03 17:47:46.919] - eth_getBlockByNumber
+[2022/10/03 17:47:46.934] - net_version
+[2022/10/03 17:47:46.948] - eth_getBlockByNumber
+[2022/10/03 17:47:46.966] - net_version
+[2022/10/03 17:47:46.967] - eth_blockNumber
+[2022/10/03 17:47:46.999] - eth_getBlockByNumber
+[2022/10/03 17:49:01.287] - eth_blockNumber
+[2022/10/03 17:49:01.302] - net_version
+[2022/10/03 17:49:01.313] - eth_accounts
+[2022/10/03 17:49:01.337] - eth_getBlockByNumber
+[2022/10/03 17:49:01.360] - eth_accounts
+[2022/10/03 17:49:01.399] - eth_getBlockByNumber
+[2022/10/03 17:49:01.419] - eth_getBlockByNumber
+[2022/10/03 17:49:01.436] - eth_getBlockByNumber
+[2022/10/03 17:49:01.457] - eth_estimateGas
+[2022/10/03 17:49:01.728] - eth_getBlockByNumber
+[2022/10/03 17:49:01.729] - eth_blockNumber
+[2022/10/03 17:49:01.739] - eth_estimateGas
+[2022/10/03 17:49:01.906] - eth_getBlockByNumber
+[2022/10/03 17:49:01.907] - eth_gasPrice
+[2022/10/03 17:49:01.925] - eth_sendTransaction
+[2022/10/03 17:49:02.075] - 
+[2022/10/03 17:49:02.076] -   Transaction: 0x2944aa466c3150461f7b45f24cb5fae82f5bf1135ff0fd593e8e2d003ad9d34b
+[2022/10/03 17:49:02.077] -   Contract created: 0x30daf3ce7f3017d01237c9543794e0b0fd2c51f8
+[2022/10/03 17:49:02.078] -   Gas usage: 246904
+[2022/10/03 17:49:02.079] -   Block Number: 28
+[2022/10/03 17:49:02.079] -   Block Time: Mon Oct 03 2022 17:49:01 GMT-0500 (Colombia Standard Time)
+[2022/10/03 17:49:02.079] - 
+[2022/10/03 17:49:02.081] - eth_getBlockByNumber
+[2022/10/03 17:49:02.082] - eth_getTransactionReceipt
+[2022/10/03 17:49:02.085] - eth_getBalance
+[2022/10/03 17:49:02.090] - eth_getTransactionCount
+[2022/10/03 17:49:02.098] - eth_getCode
+[2022/10/03 17:49:02.099] - eth_getBalance
+[2022/10/03 17:49:02.116] - eth_getTransactionCount
+[2022/10/03 17:49:02.117] - eth_getBalance
+[2022/10/03 17:49:02.119] - eth_getTransactionCount
+[2022/10/03 17:49:02.120] - eth_getBalance
+[2022/10/03 17:49:02.121] - eth_getTransactionCount
+[2022/10/03 17:49:02.121] - eth_getTransactionByHash
+[2022/10/03 17:49:02.125] - eth_getBalance
+[2022/10/03 17:49:02.126] - eth_getTransactionCount
+[2022/10/03 17:49:02.182] - eth_getBlockByNumber
+[2022/10/03 17:49:02.191] - eth_getBalance
+[2022/10/03 17:49:02.211] - eth_getBlockByNumber
+[2022/10/03 17:49:02.223] - eth_getBlockByNumber
+[2022/10/03 17:49:02.240] - eth_estimateGas
+[2022/10/03 17:49:02.431] - eth_getBlockByNumber
+[2022/10/03 17:49:02.432] - eth_gasPrice
+[2022/10/03 17:49:02.453] - eth_sendTransaction
+[2022/10/03 17:49:02.587] - 
+[2022/10/03 17:49:02.588] -   Transaction: 0x1fccf3b72865cf7f7a86c11abccb11de254e004eec6b5cf48a3d1c5b1650129e
+[2022/10/03 17:49:02.588] -   Gas usage: 42513
+[2022/10/03 17:49:02.588] -   Block Number: 29
+[2022/10/03 17:49:02.589] -   Block Time: Mon Oct 03 2022 17:49:02 GMT-0500 (Colombia Standard Time)
+[2022/10/03 17:49:02.589] - 
+[2022/10/03 17:49:02.592] - eth_getBlockByNumber
+[2022/10/03 17:49:02.594] - eth_getBalance
+[2022/10/03 17:49:02.594] - eth_getTransactionCount
+[2022/10/03 17:49:02.595] - eth_getTransactionReceipt
+[2022/10/03 17:49:02.596] - eth_getBalance
+[2022/10/03 17:49:02.597] - eth_getTransactionCount
+[2022/10/03 17:49:02.601] - eth_getBalance
+[2022/10/03 17:49:02.602] - eth_getTransactionCount
+[2022/10/03 17:49:02.604] - eth_getBalance
+[2022/10/03 17:49:02.606] - eth_getTransactionCount
+[2022/10/03 17:49:02.609] - eth_getBalance
+[2022/10/03 17:49:02.613] - eth_getTransactionCount
+[2022/10/03 17:49:02.624] - eth_getBlockByNumber
+[2022/10/03 17:49:02.721] - eth_accounts
+[2022/10/03 17:49:02.758] - net_version
+[2022/10/03 17:49:02.765] - eth_getBlockByNumber
+[2022/10/03 17:49:02.783] - eth_getBlockByNumber
+[2022/10/03 17:49:02.799] - net_version
+[2022/10/03 17:49:02.814] - eth_getBlockByNumber
+[2022/10/03 17:49:02.839] - eth_estimateGas
+[2022/10/03 17:49:03.101] - eth_getBlockByNumber
+[2022/10/03 17:49:03.144] - net_version
+[2022/10/03 17:49:03.145] - eth_blockNumber
+[2022/10/03 17:49:03.146] - eth_getBlockByNumber
+[2022/10/03 17:49:03.150] - eth_getBlockByNumber
+[2022/10/03 17:49:03.175] - eth_estimateGas
+[2022/10/03 17:49:03.416] - eth_getBlockByNumber
+[2022/10/03 17:49:03.416] - eth_gasPrice
+[2022/10/03 17:49:03.424] - eth_sendTransaction
+[2022/10/03 17:49:03.623] - eth_getBlockByNumber
+[2022/10/03 17:49:03.656] - 
+[2022/10/03 17:49:03.657] -   Transaction: 0xfcc9e69c65179948808f08dc295d1898b952f59045cfd4017a9bc63974b50078
+[2022/10/03 17:49:03.657] -   Contract created: 0x3f9d1105d074ea32f448b138f652b14f814f2c6d
+[2022/10/03 17:49:03.658] -   Gas usage: 1454737
+[2022/10/03 17:49:03.658] -   Block Number: 30
+[2022/10/03 17:49:03.659] -   Block Time: Mon Oct 03 2022 17:49:03 GMT-0500 (Colombia Standard Time)
+[2022/10/03 17:49:03.659] - 
+[2022/10/03 17:49:03.663] - eth_getBlockByNumber
+[2022/10/03 17:49:03.664] - eth_getBalance
+[2022/10/03 17:49:03.664] - eth_getTransactionCount
+[2022/10/03 17:49:03.668] - eth_getTransactionReceipt
+[2022/10/03 17:49:03.669] - eth_getBlockByNumber
+[2022/10/03 17:49:03.670] - eth_getBalance
+[2022/10/03 17:49:03.671] - eth_getTransactionCount
+[2022/10/03 17:49:03.672] - eth_getBalance
+[2022/10/03 17:49:03.673] - eth_getTransactionCount
+[2022/10/03 17:49:03.675] - eth_getBalance
+[2022/10/03 17:49:03.679] - eth_getTransactionCount
+[2022/10/03 17:49:03.681] - eth_getCode
+[2022/10/03 17:49:03.682] - eth_getBalance
+[2022/10/03 17:49:03.684] - eth_getTransactionCount
+[2022/10/03 17:49:03.771] - eth_getTransactionByHash
+[2022/10/03 17:49:03.781] - eth_getBlockByNumber
+[2022/10/03 17:49:03.796] - eth_getBalance
+[2022/10/03 17:49:03.852] - eth_getBlockByNumber
+[2022/10/03 17:49:03.862] - eth_getBlockByNumber
+[2022/10/03 17:49:03.876] - eth_estimateGas
+[2022/10/03 17:49:04.088] - eth_getBlockByNumber
+[2022/10/03 17:49:04.088] - eth_gasPrice
+[2022/10/03 17:49:04.095] - eth_sendTransaction
+[2022/10/03 17:49:04.117] - eth_getBlockByNumber
+[2022/10/03 17:49:04.293] - 
+[2022/10/03 17:49:04.294] -   Transaction: 0xaafdbb8fbbfbb41560f8b734ff8551d1f5225582e4a250200da68bf408cb1cbe
+[2022/10/03 17:49:04.294] -   Gas usage: 27513
+[2022/10/03 17:49:04.295] -   Block Number: 31
+[2022/10/03 17:49:04.296] -   Block Time: Mon Oct 03 2022 17:49:04 GMT-0500 (Colombia Standard Time)
+[2022/10/03 17:49:04.296] - 
+[2022/10/03 17:49:04.300] - eth_getBlockByNumber
+[2022/10/03 17:49:04.301] - eth_getBalance
+[2022/10/03 17:49:04.302] - eth_getTransactionCount
+[2022/10/03 17:49:04.305] - eth_getTransactionReceipt
+[2022/10/03 17:49:04.306] - eth_getBlockByNumber
+[2022/10/03 17:49:04.306] - eth_getBalance
+[2022/10/03 17:49:04.307] - eth_getTransactionCount
+[2022/10/03 17:49:04.309] - eth_getBalance
+[2022/10/03 17:49:04.315] - eth_getTransactionCount
+[2022/10/03 17:49:04.315] - eth_getBalance
+[2022/10/03 17:49:04.318] - eth_getTransactionCount
+[2022/10/03 17:49:04.325] - eth_getBalance
+[2022/10/03 17:49:04.334] - eth_getTransactionCount
+[2022/10/03 17:49:19.265] - eth_getBlockByNumber
+[2022/10/03 17:49:19.297] - eth_getBlockTransactionCountByHash
+[2022/10/03 17:49:19.317] - eth_getBlockByNumber
+[2022/10/03 17:49:19.338] - eth_getBlockTransactionCountByHash
+[2022/10/03 17:49:19.361] - eth_getBlockByNumber
+[2022/10/03 17:49:19.381] - eth_getBlockTransactionCountByHash
+[2022/10/03 17:49:19.392] - eth_getBlockByNumber
+[2022/10/03 17:49:19.411] - eth_getBlockTransactionCountByHash
+[2022/10/03 17:49:19.421] - eth_getBlockByNumber
+[2022/10/03 17:49:19.440] - eth_getBlockTransactionCountByHash
+[2022/10/03 17:49:19.451] - eth_getBlockByNumber
+[2022/10/03 17:49:19.471] - eth_getBlockTransactionCountByHash
+[2022/10/03 17:49:19.483] - eth_getBlockByNumber
+[2022/10/03 17:49:19.504] - eth_getBlockTransactionCountByHash
+[2022/10/03 17:49:19.513] - eth_getBlockByNumber
+[2022/10/03 17:49:19.533] - eth_getBlockTransactionCountByHash
+[2022/10/03 17:49:19.545] - eth_getBlockByNumber
+[2022/10/03 17:49:19.565] - eth_getBlockTransactionCountByHash
+[2022/10/03 17:49:19.576] - eth_getBlockByNumber
+[2022/10/03 17:49:19.592] - eth_getBlockTransactionCountByHash
+[2022/10/03 17:49:19.607] - eth_getBlockByNumber
+[2022/10/03 17:49:19.622] - eth_getBlockTransactionCountByHash
+[2022/10/03 17:49:19.637] - eth_getBlockByNumber
+[2022/10/03 17:49:19.653] - eth_getBlockTransactionCountByHash
+[2022/10/03 17:49:19.668] - eth_getBlockByNumber
+[2022/10/03 17:49:19.684] - eth_getBlockTransactionCountByHash
+[2022/10/03 17:49:19.700] - eth_getBlockByNumber
+[2022/10/03 17:49:19.717] - eth_getBlockTransactionCountByHash
+[2022/10/03 17:49:19.725] - eth_getBlockByNumber
+[2022/10/03 17:49:19.745] - eth_getBlockTransactionCountByHash
+[2022/10/03 17:49:19.749] - eth_getBlockByNumber
+[2022/10/03 17:49:19.763] - eth_getBlockTransactionCountByHash
+[2022/10/03 17:49:21.159] - eth_getBlockByNumber
+[2022/10/03 17:49:21.182] - eth_getTransactionReceipt

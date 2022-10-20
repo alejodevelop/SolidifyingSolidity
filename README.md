@@ -1,0 +1,2 @@
+# SolidifyingSolidity
+getting into solidity
